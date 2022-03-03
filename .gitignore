@@ -12,9 +12,9 @@
 /build
 
 # excercise components
-src\components\exampleCurrying.jsx
-src\components\ErrorBoundary.jsx
-src\components\exampleUseReducer.jsx
+src/components/exampleCurrying.jsx
+src/components/ErrorBoundary.jsx
+src/components/exampleUseReducer.jsx
 
 
 
